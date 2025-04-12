@@ -15,7 +15,9 @@
 
 - 💬 Ask me about **React, Vue, GSAP, Machine Learning, and AI**
 
-- 📫 How to reach me **debjyotiadak2003@gmail.com**
+- 📫 My Portfolio : [https://deb2oo.github.io/PORTFOLIO](https://deb2oo.github.io/PORTFOLIO)
+
+- 👨‍💻 How to reach me **debjyotiadak2003@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FPIoEXQrRMJwlv_-GoCUPgyDgl6flGke/view?usp=sharing](https://drive.google.com/file/d/1FPIoEXQrRMJwlv_-GoCUPgyDgl6flGke/view?usp=sharing)
 
