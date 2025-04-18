@@ -5,15 +5,16 @@
   <img src="https://komarev.com/ghpvc/?username=deb2oo&label=Profile%20views&color=0e75b6&style=flat" alt="deb2oo" />
 </p>
 
-- 🔭 I’m currently working on [YOLO Explorer: Object Detection in Open Environments](https://github.com/Deb2oo/YOLO-Explorer)
-- 🌱 I’m currently learning **MERN Stack, YOLOv8, Cloud Computing, and Advanced AI/ML**
-- 👯 I’m looking to collaborate on **AI-powered Web & Mobile Applications**
-- 🤝 I’m looking for help with **Advanced AI/ML projects and Cloud Integration**
-- 👨‍💻 All of my projects are available at [github.com/Deb2oo](https://github.com/Deb2oo)
-- 💬 Ask me about **React, Vue, GSAP, Machine Learning, and AI**
-- 📫 Portfolio: [deb2oo.github.io/PORTFOLIO](https://deb2oo.github.io/PORTFOLIO)
-- 📧 How to reach me: **debjyotiadak2003@gmail.com**
-- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1FPIoEXQrRMJwlv_-GoCUPgyDgl6flGke/view?usp=sharing)
+- 🔭 I’m currently working on [YOLO Explorer: Object Detection in Open Environments](https://github.com/Deb2oo/YOLO-Explorer)  
+- 🌱 I’m currently learning **MERN Stack, YOLOv8, Cloud Computing, and Advanced AI/ML**  
+- 👯 I’m looking to collaborate on **AI-powered Web & Mobile Applications**  
+- 🤝 I’m looking for help with **Advanced AI/ML projects and Cloud Integration**  
+- 👨‍💻 All of my projects are available at [github.com/Deb2oo](https://github.com/Deb2oo)  
+- 💬 Ask me about **React, Vue, GSAP, Machine Learning, and AI**  
+- 📫 Portfolio: [deb2oo.github.io/PORTFOLIO](https://deb2oo.github.io/PORTFOLIO)  
+- 📧 How to reach me: **debjyotiadak2003@gmail.com**  
+- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1KmKwNZRbmE5ZX-IRGZtTkIEpQpEm00kP/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
