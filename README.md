@@ -19,7 +19,7 @@
 
 - 👨‍💻 How to reach me **debjyotiadak2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FPIoEXQrRMJwlv_-GoCUPgyDgl6flGke/view?usp=sharing]([https://drive.google.com/file/d/1FPIoEXQrRMJwlv_-GoCUPgyDgl6flGke/view?usp=sharing](https://drive.google.com/file/d/1gYW-VURhn_uwNYMZw9iAJmD5Licdv9hN/view?usp=sharing])
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FPIoEXQrRMJwlv_-GoCUPgyDgl6flGke/view?usp=sharing]([https://drive.google.com/file/d/1KmKwNZRbmE5ZX-IRGZtTkIEpQpEm00kP/view?usp=sharing])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
